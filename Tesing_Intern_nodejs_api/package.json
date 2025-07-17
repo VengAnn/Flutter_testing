@@ -1,0 +1,19 @@
+{
+  "name": "tesing_intern_nodejs",
+  "version": "1.0.0",
+  "description": "Now you can create and run Express apps:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mssql": "^11.0.1"
+  }
+}
